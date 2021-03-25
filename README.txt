@@ -48,6 +48,9 @@ il = AL_ICM(w);   % CC optimization using adaptive-label ICM
 plotWl(w,il);     % visualize the result
 [CCEnergy(w,gt) CCEnergy(w,el) CCEnergy(w,sl) CCEnergy(w,il)], % output CC objective values for the different partitions.
 
+Another example can be found on SO:
+https://stackoverflow.com/a/66779296/1714410
+
 6. Proper reference
 -------------------
 Using this software in any academic work you must cite the following works in any resulting publication:
